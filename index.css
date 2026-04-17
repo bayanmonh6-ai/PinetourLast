@@ -862,13 +862,35 @@
   color: white;
 }
 
+
 .a {
   text-decoration: none;
 }
 
 .style {
+font-family: "Inter", sans-serif;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: bottom;
+text-transform: capitalize;
+color:#FFFFFF;
+}
+
+.style1 {
   font-family: "Hanuman", sans-serif;
-  width: 100px;
-                  height: 22px;
-                  color: white;
+font-weight: 900;
+font-style: Black;
+font-size: 64px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: bottom;
+color: #FFFFFFCC;
+display: flex;
+                justify-content: center;
 }
